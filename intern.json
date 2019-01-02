@@ -2,69 +2,28 @@
   {
     "id": 1,
     "name": "Saurabh Londhe",
-    "username": "Saurabh.Londhe",
+    "username": "Saurabh Londhe",
     "email": "Saurabh.Londhe@emtecinc.com",
-    "address": {
-      "street": "Giravi Road",
-      "suite": "PT 470",
-      "city": "Phaltan",
-      "zipcode": "415523",
-    },
     "phone": "8888603379",
-    "website": "saurabhlondhe.github.io",
-    "company": {
-      "name": "Emtec Inc."
-    }
+    "website": "https://saurabhlondhe.github.io",
+    "company": "Emtec"
   },
   {
     "id": 2,
-    "name": "Saurabh Londhe",
-    "username": "Saurabh.Londhe",
-    "email": "Saurabh.Londhe@emtecinc.com",
-    "address": {
-      "street": "Giravi Road",
-      "suite": "PT 470",
-      "city": "Phaltan",
-      "zipcode": "415523",
-    },
-    "phone": "8888603379",
-    "website": "saurabhlondhe.github.io",
-    "company": {
-      "name": "Emtec Inc."
-    }
+    "name": "Rohini Jadhav",
+    "username": "Rohini.Jadhav",
+    "email": "Rohini.Jadhav@emtecinc.com",
+    "phone": "9421513779",
+    "website": "https://saurabhlondhe.github.io",
+    "company": "Emtec"
   },
   {
     "id": 3,
-    "name": "Saurabh Londhe",
-    "username": "Saurabh.Londhe",
-    "email": "Saurabh.Londhe@emtecinc.com",
-    "address": {
-      "street": "Giravi Road",
-      "suite": "PT 470",
-      "city": "Phaltan",
-      "zipcode": "415523",
-    },
-    "phone": "8888603379",
-    "website": "saurabhlondhe.github.io",
-    "company": {
-      "name": "Emtec Inc."
-    }
-  },
-  {
-    "id": 4,
-    "name": "Saurabh Londhe",
-    "username": "Saurabh.Londhe",
-    "email": "Saurabh.Londhe@emtecinc.com",
-    "address": {
-      "street": "Giravi Road",
-      "suite": "PT 470",
-      "city": "Phaltan",
-      "zipcode": "415523",
-    },
-    "phone": "8888603379",
-    "website": "saurabhlondhe.github.io",
-    "company": {
-      "name": "Emtec Inc."
-    }
-  },
+    "name": "Sonalkumar Kadelwar",
+    "username": "Sonalkumar.Kadelwar",
+    "email": "Sonalkumar.Kadelwar@emtecinc.com",
+    "phone": "7777777777",
+    "website": "https://saurabhlondhe.github.io",
+    "company": "Emtec"
+  },  
 ]
